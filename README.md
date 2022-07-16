@@ -16,7 +16,8 @@ The map includes the magnitude and location of the earthquake shown dynamically 
 ### Map Styles 
 The user can dynamically select from three different map styles: Streets [default], Satellite, or Dark. 
 
-***Mapbox Maps IDs**
+**Mapbox Maps IDs**
+
 USED ON THIS MAP 
 * Mapbox Streets: mapbox/streets-v11
 * Mapbox Satellite: mapbox/satellite-v9
