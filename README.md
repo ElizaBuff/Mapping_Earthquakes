@@ -33,7 +33,7 @@ COULD BE ADDED
  ### geoJSON() Layers
 The user can dynamically add and remove earthquake data layers. 
 LAYERS 
-* Earthqaukes: markers for each earthquake reflecting the magnitude of the earthquake in size and color with a popup marker describing the magnitude and location 
+* Earthquakes: markers for each earthquake reflecting the magnitude of the earthquake in size and color with a popup marker describing the magnitude and location 
 * Tectonic Plates: lines representing tectonic plates
 * Major Earthquakes: markers for earthquake with **magnitudes of 5 and greater** with a popup marker describing the magnitude and location
 
